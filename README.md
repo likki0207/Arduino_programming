@@ -21,3 +21,6 @@ the chips that control the robot or the sensors that detects obstacles in the su
 Various types of sensors are used in robots to avoid collisions, like bump sensors, infrared sensors, laser range sensor and ultrasonic sensors. 
 Ultrasonic sensors proved their high abilities of detecting obstacles in wide ranges, and they are commonly used in mobile robots to avoid collisions. 
 Recent studies have presented and improved various methods of avoiding collisions using ultrasonic sensors.
+
+# circuit diagram
+![](accident%20avoidance%20system/circuit_diagram.png)
