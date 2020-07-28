@@ -9,6 +9,9 @@ As the distance between glove and obstacle decreases, frequency of both audio an
 Thus the system helps to ease the navigation process for the needy.
 The system uses Atmega-328 microcontroller, which is a high performance 8-bit AVR RISC-based microcontroller
 
+# circuit diagram
+![](Third%20Eye%20for%20Blind/circuit-diagram.png)
+
 # Project-2 : Accident avoidance system
 This is an Arduino-based collision detection warning system.
 This kind of system is the fastest growing safety feature in automotive industries. 
